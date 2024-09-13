@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🔍❔ About Me!
+- Currently I am a computer and systems engineering student 🧑‍🎓 at Zagazig University, Egypt 🇪🇬... I excpect to graduate right around 2026 🙂  
+-🐦 I am a flutter cross-platfrom developer and still learning! I also have experience with Java ☕, Dart 🎯, Python 🐍, C and a little of C++! Also I occasionally use Blender for 3D Modeling, Shading and Rendering!   
+-🌱 I am currently learning fastAPI!  
+-👯 I’m looking to collaborate on any project that matches my interests!  
+-🤔 I’m looking for help with personal branding and future career planning!  
+-💬 Ask me about anything!  
+-📫 You can reach me on my e-mail or any social platform!  
+-⚡ Fun fact about me: I can't find a fun fact about me 😆  
+
+
+
+
+
 ### 🔥 My Stats :  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermais&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hermais&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -43,15 +59,6 @@ Here are some ideas to get you started:
 </center>
 
 
-## 🔍❔ About Me!
-- Currently I am a computer and systems engineering student 🧑‍🎓 at Zagazig University, Egypt 🇪🇬... I excpect to graduate right around 2026 🙂  
--🐦 I am a flutter cross-platfrom developer and still learning! I also have experience with Java ☕, Dart 🎯, Python 🐍, C and a little of C++! Also I occasionally use Blender for 3D Modeling, Shading and Rendering!   
--🌱 I am currently learning fastAPI!  
--👯 I’m looking to collaborate on any project that matches my interests!  
--🤔 I’m looking for help with personal branding and future career planning!  
--💬 Ask me about anything!  
--📫 You can reach me on my e-mail or any social platform!  
--⚡ Fun fact about me: I can't find a fun fact about me 😆  
 
 
 
